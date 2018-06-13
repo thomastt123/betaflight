@@ -69,6 +69,8 @@ https://www.banggood.com/Racerstar-Crazybee-F3-Flight-Controller-4-IN-1-5A-1S-Bl
 
 
 ## FAQ & Known Issues
+1/ loss of COM port drivers in mac os if flashed to butterflight.
+Possibility to reflash to betaflight 3.3.0 but no connection possible to betaflight or butterflight due to no COM port present.
 
 ## Other Resources
    User Manual: http://img.banggood.com/file/products/20180209021414Crazybeef3.pdf
